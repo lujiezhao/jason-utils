@@ -5,10 +5,17 @@
     "src/*": ["src/*", "src/*/*"]
   },
   "compilerOptions": {
-    "target": "es5",
+    "target": "es2015",
+    "module": "esnext",
     "moduleResolution": "node",
     "strict": true,
     "esModuleInterop": true,
-    "useUnknownInCatchVariables": false
+    "useUnknownInCatchVariables": false,
+    "lib": [
+      "esnext",
+      "dom",
+      "dom.iterable",
+      "scripthost"
+    ]
   }
 }

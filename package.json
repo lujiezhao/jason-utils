@@ -1,13 +1,13 @@
 {
-  "name": "dip-utils",
+  "name": "lmkj-utils",
   "version": "0.0.1",
   "description": "个人前端常用工具函数封装",
-  "author": "kinghao",
+  "author": "lujiezhao",
   "license": "MIT",
   "homepage": "https://github.com/lujiezhao/lmkj-utils",
-  "main": "dist/dip-utils.cjs.js",
-  "module": "dist/dip-utils.esm.js",
-  "browser": "dist/dip-utils.umd.js",
+  "main": "dist/lmkj-utils.cjs.js",
+  "module": "dist/lmkj-utils.esm.js",
+  "browser": "dist/lmkj-utils.umd.js",
   "types": "src/index.d.ts",
   "files": [
     "src",
