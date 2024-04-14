@@ -16,23 +16,23 @@
 
 ```shell
 # npm
-npm install lmkj-utils -S
+npm install jasonzhao-utils -S
 
 # yarn
-yarn add lmkj-utils -S
+yarn add jasonzhao-utils -S
 ```
 
 ESM 导入
 
 ```js
-import { random } from 'lmkj-utils'
+import { random } from 'jasonzhao-utils'
 console.log(random(1, 10))
 ```
 
 RequireJS 导入
 
 ```js
-const { random } = require('lmkj-utils')
+const { random } = require('jasonzhao-utils')
 console.log(random(1, 10))
 ```
 
