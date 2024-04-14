@@ -1,13 +1,13 @@
 {
   "name": "jasonzhao-utils",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "个人前端常用工具函数封装",
   "author": "lujiezhao",
   "license": "MIT",
   "homepage": "https://github.com/lujiezhao/jason-utils",
-  "main": "dist/jason-utils.cjs.js",
-  "module": "dist/jason-utils.esm.js",
-  "browser": "dist/jason-utils.umd.js",
+  "main": "dist/jasonzhao-utils.cjs.js",
+  "module": "dist/jasonzhao-utils.esm.js",
+  "browser": "dist/jasonzhao-utils.umd.js",
   "types": "src/index.d.ts",
   "files": [
     "src",
